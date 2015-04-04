@@ -224,7 +224,7 @@ function Fetch() {
     mixName,
     mixArtwork,
     previousSongDuration,
-    extraWait = 7,
+    extraWait = 20,
     previousError;
 
   var sessionId, stationId, updateTime = 3;
